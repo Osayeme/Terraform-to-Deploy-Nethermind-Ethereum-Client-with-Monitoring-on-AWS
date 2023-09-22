@@ -5,3 +5,4 @@ myplan
 terraform.tfstate.backup
 my-key-pair.pub
 nethermind.pem
+.terraform.lock.hcl

@@ -1,4 +1,7 @@
-# terraform-nethermind
-Recipe for a fast &amp; easy terraform deployment of Nethermind Client and Monitoring stack (Grafana/Prometheus/Seq)
+# Terraform to Deploy Nethermind Ethereum Client with Monitoring Stack
 
-A guide can be found on our [Documentation site](https://docs.nethermind.io/nethermind/guides-and-helpers/deploy-nethermind-with-monitoring-stack)
+This is me exploring the deployment of Nethermind's Ethereum Client with the Grafana monitoring tool.
+
+The content of this repo was created following the guide from [NethermindEth](https://docs.nethermind.io/nethermind/guides-and-helpers/deploy-nethermind-with-monitoring-stack)
+
+## Deployment Notes
