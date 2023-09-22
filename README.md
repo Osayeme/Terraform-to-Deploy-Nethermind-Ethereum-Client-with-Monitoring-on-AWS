@@ -4,4 +4,8 @@ This is me exploring the deployment of Nethermind's Ethereum Client with the Gra
 
 The content of this repo was created following the guide from [NethermindEth](https://docs.nethermind.io/nethermind/guides-and-helpers/deploy-nethermind-with-monitoring-stack)
 
+<<<<<<< HEAD
 ## Deployment Notes
+=======
+## Deployment Notes
+>>>>>>> origin/main
