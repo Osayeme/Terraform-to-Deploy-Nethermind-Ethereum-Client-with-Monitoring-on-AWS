@@ -2,7 +2,7 @@
 
 This is me exploring the deployment of Nethermind's Ethereum Client with the Grafana monitoring tool.
 
-The content of this repo was created following the guide from [NethermindEth](https://docs.nethermind.io/nethermind/guides-and-helpers/deploy-nethermind-with-monitoring-stack)
+The content of this repo was created following the guide from [NethermindEth](https://old.docs.nethermind.io/nethermind/guides-and-helpers/deploy-nethermind-with-monitoring-stack)
 
 ## Deployment Notes
 ### Setting up
@@ -30,5 +30,10 @@ Let's preview our plan before applying and save it so that it can be used in a f
 Provide some basic configuration to your Virtual Machine and Nethermind Node
 <img width="947" height="400" alt="Configuration" src="https://github.com/Osayeme/Terraform-to-Deploy-Nethermind-Ethereum-Client-with-Monitoring-on-AWS/blob/main/assets/config.png">
 
+Let's apply our plan and start deploying whole stack (it should take no longer than 3 minutes)
 
+`terraform apply myplan`
+
+Wait until terraform is done deploying and if everything went smooth you should see
+<img width="947" height="200" alt="Apply complete" src="https://github.com/Osayeme/Terraform-to-Deploy-Nethermind-Ethereum-Client-with-Monitoring-on-AWS/blob/main/assets/applycomplete.png">
 
