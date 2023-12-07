@@ -13,4 +13,4 @@ Let's move to the cloned directory
   cd terraform-nethermind/
 
 Login to your AWS account and create and create a key pair with the name "nethermind" Ensure to use the .pem format
-<img width="947" alt="neth terra apply timing out process held" src="https://github.com/Osayeme/Terraform-to-Deploy-Nethermind-Ethereum-Client-with-Monitoring-on-AWS/blob/main/assets/Create%20key%20pair.png">
+<img width="947" height="400" alt="neth terra apply timing out process held" src="https://github.com/Osayeme/Terraform-to-Deploy-Nethermind-Ethereum-Client-with-Monitoring-on-AWS/blob/main/assets/Create%20key%20pair.png">
